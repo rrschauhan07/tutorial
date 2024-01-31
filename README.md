@@ -1,4 +1,4 @@
 # tutorial
 Learning Under Progress
 <br>
-Author - Rishi Raj Singh Chauhaan
+Author - Rishi Raj Singh Chauhan
